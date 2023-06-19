@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "GitHub_Blocks",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "GitHub_Blocks"
+	}
+}
